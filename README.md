@@ -1,7 +1,6 @@
 ## 📚 Recommended Learning Path
 
-1. **Creating an Intelligent Contract on GenLayer**  
-   ([inteligencontracts](https://github.com/Jr-kenny/INTELLIGENT-CONTRACT-WITH-GENLAYER-STUDIO-))
+1. **[Creating an Intelligent Contract on GenLayer](https://github.com/Jr-kenny/INTELLIGENT-CONTRACT-WITH-GENLAYER-STUDIO-)**  
 
 2. **GenLayer by Example (this repo)**  
    (Equivalence principles, call methods, real-world demos)
