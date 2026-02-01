@@ -11,7 +11,8 @@ Strict Equivalence Principle
 
 Comparative Equivalence Principle
 
-Non-Comparative Equivalence Principle
+[Non-Comparative Equivalence Principle
+](https://github.com/Jr-kenny/Wordwise)
 
 ### Call methods
 Read
