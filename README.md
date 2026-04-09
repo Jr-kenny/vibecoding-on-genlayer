@@ -11,8 +11,6 @@ The goal is not just to explain GenLayer in simple words. The goal is to show th
 - How to choose between strict equality, custom validator functions, comparative validation, and non-comparative validation.
 - How to test, debug, deploy, and connect a GenLayer contract to a frontend without hallucinating contract functions.
 
-This guide was rewritten against the GenLayer Docs MCP, using the official GenLayer documentation as the technical source of truth.
-
 ## How to Use This Guide
 
 This README is written for two groups at the same time:
